@@ -30,7 +30,7 @@ const passion_desc = sidebar.querySelector("p");
 passion_desc.innerHTML = "I create awsome web applications with the help of JavaScript language.
 ```
 ### Result
-![Sample One](./Images/Ans1.png)
+![Sample One](./Images/Ans1.PNG)
 
 2. Website Name: [Apple](https://support.apple.com/en-in)
 
@@ -60,7 +60,7 @@ console.log(Array);
 
 ```
 ### Result
-![Sample One](./Images/Ans2.png)
+![Sample One](./Images/Ans2.PNG)
 
 
 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
@@ -97,7 +97,7 @@ mynewFaQ.appendChild(faq)
 accordian.appendChild(mynewFaQ);
 ```
 ### Result
-![Sample One](./Images/Ans3.png)
+![Sample One](./Images/Ans3.PNG)
 
 
 
@@ -127,7 +127,7 @@ telephoneEl.innerText = "+91 6366256689";
 telephoneEl.setAttribute("href", "tel:+91 1234567890")
 ```
 ### Result
-![Sample One](./Images/Ans4.png)
+![Sample One](./Images/Ans4.PNG)
 
 
 
@@ -159,7 +159,7 @@ for(let checkout of checkout) {
 ```
 
 ### Result
-![Sample One](./Images/Ans5.png)
+![Sample One](./Images/Ans5.PNG)
 
 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
 
@@ -190,7 +190,7 @@ searchElement.addEventListener('mouseover', function (){
 
 ```
 ### Result
-![Sample One](./Images/Ans6.png)
+![Sample One](./Images/Ans6.PNG)
 
 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
@@ -226,7 +226,7 @@ formElement.submit();
 
 ```
 ### Result
-![Sample One](./Images/Ans7.png)
+![Sample One](./Images/Ans7.PNG)
 
 8. Webiste Name: [Google](https://www.google.com/)
 
@@ -263,7 +263,7 @@ languagesList.forEach((i, j)=>{
 
 ```
 ### Result
-![Sample One](./Images/Ans8.png)
+![Sample One](./Images/Ans8.PNG)
 
 9. Webiste Name: [Code Wars](https://www.codewars.com/)
 
@@ -291,7 +291,7 @@ headingElement.style.fontFamily = "monospace";
 headingElement.style.color = "red";
 ```
 ### Result
-![Sample One](./Images/Ans9.png)
+![Sample One](./Images/Ans9.PNG)
 
 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
 
@@ -322,7 +322,7 @@ button.addEventListener("mouseover", function(){
 });
 ```
 ### Result
-![Sample One](./Images/Ans10.png)
+![Sample One](./Images/Ans10.PNG)
 
 11. Webiste Name: [realme](https://www.realme.com/in/)
 
@@ -353,7 +353,7 @@ logo.style.backgroundImage = `url(${iNeuronLogoPath})`;
 
 ```
 ### Result
-![Sample One](./Images/Ans11.png)
+![Sample One](./Images/Ans11.PNG)
 
 12. Webiste Name: [Github](https://github.com/)
 
@@ -381,7 +381,7 @@ const btn = document.querySelector(".js-repos-container a");
 btn.style.backgroundColor = "blue";
 ```
 ### Result
-![Sample One](./Images/Ans12.png)
+![Sample One](./Images/Ans12.PNG)
 
 13. Webiste Name: [Hackerrank](https://www.hackerrank.com/)
 
@@ -407,7 +407,7 @@ Target the top description and change “Matching developers with great companie
 document.querySelector(".fl-heading-text").innerHTML = "JSBOOTCAMP"
 ```
 ### Result
-![Sample One](./Images/Ans13.png)
+![Sample One](./Images/Ans13.PNG)
 
 
 
@@ -436,7 +436,7 @@ document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "80px";
 ```
 
 ### Result
-![Sample One](./Images/Ans14.png)
+![Sample One](./Images/Ans14.PNG)
 
 15. Webiste Name: [Dell](https://www.dell.com/en-in/shop/deals/laptop-deals?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-XUDMhhVNyHXb3s1gY4ZBzORr_d9Se-buhJwy7asyUe7YdqEA11eEaAt6UEALw_wcB&gclsrc=aw.ds&nclid=BxjBlpBQsX6pjSHh-L8YYSU77EpfXRkG1AGMB5Wbeu386ykspfrPDnfx_DdFau20)
 
@@ -466,7 +466,7 @@ const title = laptop.querySelector(".ps-top .ps-title")
 title.style.textAlign = "right";
 ```
 ### Result
-![Sample One](./Images/Ans15.png)
+![Sample One](./Images/Ans15.PNG)
 
 
 
@@ -494,7 +494,7 @@ title.style.textAlign = "right";
 document.querySelector(".section-title_title__VEDfK").innerHTML = "Start with Scratch";
 ```
 ### Result
-![Sample One](./Images/Ans16.png)
+![Sample One](./Images/Ans16.PNG)
 
 17. Webiste Name: [Sony](https://www.sony.co.in/)
 
@@ -520,7 +520,7 @@ document.querySelector(".section-title_title__VEDfK").innerHTML = "Start with Sc
 document.querySelector(".btn.buy.buy-button").innerHTML = new Date().toString();
 ```
 ### Result
-![Sample One](./Images/Ans17.png)
+![Sample One](./Images/Ans17.PNG)
 
 18. Webiste Name: [Philips](https://www.philips.co.in/)
 
@@ -546,7 +546,7 @@ document.querySelector(".btn.buy.buy-button").innerHTML = new Date().toString();
 document.querySelector(".p-f03-footer-container").style.background = "orange";
 ```
 ### Result
-![Sample One](./Images/Ans18.png)
+![Sample One](./Images/Ans18.PNG)
 
 
 19. Webiste Name: [Canon](https://in.canon/)
@@ -573,7 +573,7 @@ document.querySelector(".p-f03-footer-container").style.background = "orange";
 document.querySelector(".logo").getAttribute("src");
 ```
 ### Result
-![Sample One](./Images/Ans19.png)
+![Sample One](./Images/Ans19.PNG)
 
 20. Webiste Name: [Oppo](https://www.oppo.com/in/)
 
@@ -600,5 +600,5 @@ document.querySelector(".wide h3.desc").style.color = "orange";
 
 ```
 ### Result
-![Sample One](./Images/Ans20.png)
+![Sample One](./Images/Ans20.PNG)
 
