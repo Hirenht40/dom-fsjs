@@ -8,7 +8,7 @@
 
 ### Sample Image
 
-![Sample One](./Pic1.png)
+![Sample One](./images/Pic1.png)
 
 ### Tasks
 
@@ -16,7 +16,7 @@
 
 ### Output
 
-![Output](./Pic2.png)
+![Output](./images/Pic2.png)
 
 ### Code
 ```
@@ -29,13 +29,13 @@ const passion_desc = sidebar.querySelector("p");
 passion_desc.innerHTML = "I create awsome web applications with the help of JavaScript language.
 ```
 ### Result
-![Sample One](./Ans1.png)
+![Sample One](./images/Ans1.png)
 
 2. Website Name: [Apple](https://support.apple.com/en-in)
 
 ### Task
 
-![Store](./Picture_3.png)
+![Store](./images/Picture_3.png)
 
 ### Fetch all the product name and store in an array
 
@@ -59,7 +59,7 @@ console.log(Array);
 
 ```
 ### Result
-![Sample One](./Ans2.png)
+![Sample One](./images/Ans2.png)
 
 
 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
@@ -70,14 +70,14 @@ console.log(Array);
 
 ### Sample Image
 
-![Sample One](./Pic4.png)
+![Sample One](./images/Pic4.png)
 
 ### Tasks
 
      Add another FAQ 'My New FAQ' to the list
 
 ### Output
-![Output](./Pic5.png)
+![Output](./images/Pic5.png)
 
 ### Code
 ```
@@ -96,7 +96,7 @@ mynewFaQ.appendChild(faq)
 accordian.appendChild(mynewFaQ);
 ```
 ### Result
-![Sample One](./Ans3.png)
+![Sample One](./images/Ans3.png)
 
 
 
@@ -108,7 +108,7 @@ accordian.appendChild(mynewFaQ);
 
 ### Sample Image
 
-![Sample One](./Pic6.png)
+![Sample One](./images/Pic6.png)
 
 ### Tasks
 
@@ -116,7 +116,7 @@ accordian.appendChild(mynewFaQ);
 
 ### Output
 
-![Output](./Pic7.png)
+![Output](./images/Pic7.png)
 
 ### Code
 ```
@@ -126,7 +126,7 @@ telephoneEl.innerText = "+91 6366256689";
 telephoneEl.setAttribute("href", "tel:+91 1234567890")
 ```
 ### Result
-![Sample One](./Ans4.png)
+![Sample One](./images/Ans4.png)
 
 
 
@@ -138,7 +138,7 @@ telephoneEl.setAttribute("href", "tel:+91 1234567890")
 
 ### Sample Image
 
-![Sample One](./Pic8.png)
+![Sample One](./images/Pic8.png)
 
 ### Tasks
 
@@ -146,7 +146,7 @@ telephoneEl.setAttribute("href", "tel:+91 1234567890")
 
 ### Output
 
-![Output](./Pic9.png)
+![Output](./images/Pic9.png)
 
 ### Code
 ```
@@ -158,7 +158,7 @@ for(let checkout of checkout) {
 ```
 
 ### Result
-![Sample One](./Ans5.png)
+![Sample One](./images/Ans5.png)
 
 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
 
@@ -168,7 +168,7 @@ for(let checkout of checkout) {
 
 ### Sample Image
 
-![Sample One](./Pic10.png)
+![Sample One](./images/Pic10.png)
 
 ### Tasks
 
@@ -176,7 +176,7 @@ for(let checkout of checkout) {
 
 ### Output
 
-![Output](./Pic11.png)
+![Output](./images/Pic11.png)
 
 ### code
 
@@ -189,7 +189,7 @@ searchElement.addEventListener('mouseover', function (){
 
 ```
 ### Result
-![Sample One](./Ans6.png)
+![Sample One](./images/Ans6.png)
 
 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
@@ -199,7 +199,7 @@ searchElement.addEventListener('mouseover', function (){
 
 ### Sample Image
 
-![Sample One](./Pic12.png)
+![Sample One](./images/Pic12.png)
 
 ### Tasks
 
@@ -208,7 +208,7 @@ searchElement.addEventListener('mouseover', function (){
 
 ### Output
 
-![Output](./Pic13.png)
+![Output](./images/Pic13.png)
 
 ### code
 
@@ -225,7 +225,7 @@ formElement.submit();
 
 ```
 ### Result
-![Sample One](./Ans7.png)
+![Sample One](./images/Ans7.png)
 
 8. Webiste Name: [Google](https://www.google.com/)
 
@@ -235,7 +235,7 @@ formElement.submit();
 
 ### Sample Image
 
-![Sample One](./Pic14.png)
+![Sample One](./images/Pic14.png)
 
 ### Tasks
 
@@ -243,7 +243,7 @@ formElement.submit();
 
 ### Output
 
-![Output](./Pic15.png)
+![Output](./images/Pic15.png)
 
 ### code
 ```
@@ -262,7 +262,7 @@ languagesList.forEach((i, j)=>{
 
 ```
 ### Result
-![Sample One](./Ans8.png)
+![Sample One](./images/Ans8.png)
 
 9. Webiste Name: [Code Wars](https://www.codewars.com/)
 
@@ -272,7 +272,7 @@ languagesList.forEach((i, j)=>{
 
 ### Sample Image
 
-![Sample One](./Pic16.png)
+![Sample One](./images/Pic16.png)
 
 ### Tasks
 
@@ -280,7 +280,7 @@ languagesList.forEach((i, j)=>{
 
 ### Output
 
-![Output](./Pic17.png)
+![Output](./images/Pic17.png)
 
 ### code
 ```
@@ -290,7 +290,7 @@ headingElement.style.fontFamily = "monospace";
 headingElement.style.color = "red";
 ```
 ### Result
-![Sample One](./Ans9.png)
+![Sample One](./images/Ans9.png)
 
 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
 
@@ -300,7 +300,7 @@ headingElement.style.color = "red";
 
 ### Sample Image
 
-![Sample One](./Pic18.png)
+![Sample One](./images/Pic18.png)
 
 ### Tasks
 
@@ -308,7 +308,7 @@ headingElement.style.color = "red";
 
 ### Output
 
-![Output](./Pic19.png)
+![Output](./images/Pic19.png)
 
 ### code
 ```
@@ -321,7 +321,7 @@ button.addEventListener("mouseover", function(){
 });
 ```
 ### Result
-![Sample One](./Ans10.png)
+![Sample One](./images/Ans10.png)
 
 11. Webiste Name: [realme](https://www.realme.com/in/)
 
@@ -331,7 +331,7 @@ button.addEventListener("mouseover", function(){
 
 ### Sample Image
 
-![Sample One](./Pic20.png)
+![Sample One](./images/Pic20.png)
 
 ### Tasks
 
@@ -339,7 +339,7 @@ button.addEventListener("mouseover", function(){
 
 ### Output
 
-![Output](./Pic21.png)
+![Output](./images/Pic21.png)
 
 ### code
 
@@ -352,7 +352,7 @@ logo.style.backgroundImage = `url(${iNeuronLogoPath})`;
 
 ```
 ### Result
-![Sample One](./Ans11.png)
+![Sample One](./images/Ans11.png)
 
 12. Webiste Name: [Github](https://github.com/)
 
@@ -362,7 +362,7 @@ logo.style.backgroundImage = `url(${iNeuronLogoPath})`;
 
 ### Sample Image
 
-![Sample One](./Pic22.png)
+![Sample One](./images/Pic22.png)
 
 ### Tasks
 
@@ -370,7 +370,7 @@ logo.style.backgroundImage = `url(${iNeuronLogoPath})`;
 
 ### Output
 
-![Output](./Pic23.png)
+![Output](./images/Pic23.png)
 
 ### code
 
@@ -380,7 +380,7 @@ const btn = document.querySelector(".js-repos-container a");
 btn.style.backgroundColor = "blue";
 ```
 ### Result
-![Sample One](./Ans12.png)
+![Sample One](./images/Ans12.png)
 
 13. Webiste Name: [Hackerrank](https://www.hackerrank.com/)
 
@@ -390,7 +390,7 @@ btn.style.backgroundColor = "blue";
 
 ### Sample Image
 
-![Sample One](./Pic24.png)
+![Sample One](./images/Pic24.png)
 
 ### Tasks
 
@@ -398,7 +398,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-![Output](./Pic25.png)
+![Output](./images/Pic25.png)
 
 ### code
 
@@ -406,7 +406,7 @@ Target the top description and change “Matching developers with great companie
 document.querySelector(".fl-heading-text").innerHTML = "JSBOOTCAMP"
 ```
 ### Result
-![Sample One](./Ans13.png)
+![Sample One](./images/Ans13.png)
 
 
 
@@ -418,7 +418,7 @@ document.querySelector(".fl-heading-text").innerHTML = "JSBOOTCAMP"
 
 ### Sample Image
 
-![Sample One](./Pic26.png)
+![Sample One](./images/Pic26.png)
 
 ### Tasks
 
@@ -426,7 +426,7 @@ document.querySelector(".fl-heading-text").innerHTML = "JSBOOTCAMP"
 
 ### Output
 
-![Output](./Pic27.png)
+![Output](./images/Pic27.png)
 
 ### code
 
@@ -435,7 +435,7 @@ document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "80px";
 ```
 
 ### Result
-![Sample One](./Ans14.png)
+![Sample One](./images/Ans14.png)
 
 15. Webiste Name: [Dell](https://www.dell.com/en-in/shop/deals/laptop-deals?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-XUDMhhVNyHXb3s1gY4ZBzORr_d9Se-buhJwy7asyUe7YdqEA11eEaAt6UEALw_wcB&gclsrc=aw.ds&nclid=BxjBlpBQsX6pjSHh-L8YYSU77EpfXRkG1AGMB5Wbeu386ykspfrPDnfx_DdFau20)
 
@@ -445,7 +445,7 @@ document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "80px";
 
 ### Sample Image
 
-![Sample One](./Pic28.png)
+![Sample One](./images/Pic28.png)
 
 ### Tasks
 
@@ -453,7 +453,7 @@ document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "80px";
 
 ### Output
 
-![Output](./Pic29.png)
+![Output](./images/Pic29.png)
 
 ### code
 
@@ -465,7 +465,7 @@ const title = laptop.querySelector(".ps-top .ps-title")
 title.style.textAlign = "right";
 ```
 ### Result
-![Sample One](./Ans15.png)
+![Sample One](./images/Ans15.png)
 
 
 
@@ -477,7 +477,7 @@ title.style.textAlign = "right";
 
 ### Sample Image
 
-![Sample One](./Pic30.png)
+![Sample One](./images/Pic30.png)
 
 ### Tasks
 
@@ -485,7 +485,7 @@ title.style.textAlign = "right";
 
 ### Output
 
-![Output](./Pic31.png)
+![Output](./images/Pic31.png)
 
 ### code
 
@@ -493,7 +493,7 @@ title.style.textAlign = "right";
 document.querySelector(".section-title_title__VEDfK").innerHTML = "Start with Scratch";
 ```
 ### Result
-![Sample One](./Ans16.png)
+![Sample One](./images/Ans16.png)
 
 17. Webiste Name: [Sony](https://www.sony.co.in/)
 
@@ -503,7 +503,7 @@ document.querySelector(".section-title_title__VEDfK").innerHTML = "Start with Sc
 
 ### Sample Image
 
-![Sample One](./Pic33.png)
+![Sample One](./images/Pic33.png)
 
 ### Tasks
 
@@ -511,7 +511,7 @@ document.querySelector(".section-title_title__VEDfK").innerHTML = "Start with Sc
 
 ### Output
 
-![Output](./Pic32.png)
+![Output](./images/Pic32.png)
 
 ### code
 
@@ -519,7 +519,7 @@ document.querySelector(".section-title_title__VEDfK").innerHTML = "Start with Sc
 document.querySelector(".btn.buy.buy-button").innerHTML = new Date().toString();
 ```
 ### Result
-![Sample One](./Ans17.png)
+![Sample One](./images/Ans17.png)
 
 18. Webiste Name: [Philips](https://www.philips.co.in/)
 
@@ -529,7 +529,7 @@ document.querySelector(".btn.buy.buy-button").innerHTML = new Date().toString();
 
 ### Sample Image
 
-![Sample One](./Pic34.png)
+![Sample One](./images/Pic34.png)
 
 ### Tasks
 
@@ -537,7 +537,7 @@ document.querySelector(".btn.buy.buy-button").innerHTML = new Date().toString();
 
 ### Output
 
-![Output](./Pic35.png)
+![Output](./images/Pic35.png)
 
 ### code
 
@@ -545,7 +545,7 @@ document.querySelector(".btn.buy.buy-button").innerHTML = new Date().toString();
 document.querySelector(".p-f03-footer-container").style.background = "orange";
 ```
 ### Result
-![Sample One](./Ans18.png)
+![Sample One](./images/Ans18.png)
 
 
 19. Webiste Name: [Canon](https://in.canon/)
@@ -556,7 +556,7 @@ document.querySelector(".p-f03-footer-container").style.background = "orange";
 
 ### Sample Image
 
-![Sample One](./Pic36.png)
+![Sample One](./images/Pic36.png)
 
 ### Tasks
 
@@ -564,7 +564,7 @@ document.querySelector(".p-f03-footer-container").style.background = "orange";
 
 ### Output
 
-![Output](./Pic37.png)
+![Output](./images/Pic37.png)
 
 ### code
 
@@ -572,7 +572,7 @@ document.querySelector(".p-f03-footer-container").style.background = "orange";
 document.querySelector(".logo").getAttribute("src");
 ```
 ### Result
-![Sample One](./Ans19.png)
+![Sample One](./images/Ans19.png)
 
 20. Webiste Name: [Oppo](https://www.oppo.com/in/)
 
@@ -582,7 +582,7 @@ document.querySelector(".logo").getAttribute("src");
 
 ### Sample Image
 
-![Sample One](./Pic38.png)
+![Sample One](./images/Pic38.png)
 
 ### Tasks
 
@@ -590,7 +590,7 @@ document.querySelector(".logo").getAttribute("src");
 
 ### Output
 
-![Output](./Pic39.png)
+![Output](./images/Pic39.png)
 
 ### code
 
@@ -599,5 +599,5 @@ document.querySelector(".wide h3.desc").style.color = "orange";
 
 ```
 ### Result
-![Sample One](./Ans20.png)
+![Sample One](./images/Ans20.png)
 
