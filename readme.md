@@ -10,7 +10,6 @@
 
 ![Sample One](./images/Pic1.png)
 
-
 ### Tasks
 
         Target the Top description div and change the DEV Community to <Your_Name> and description to your passion
