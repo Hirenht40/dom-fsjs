@@ -63,7 +63,7 @@ console.log(Array);
 ![Sample One](./Images/Ans2.PNG)
 
 
-# # 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
+# 3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
 
 ### Topics
 
