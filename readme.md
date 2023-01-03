@@ -1,6 +1,6 @@
 # Dom Manipulation Assignment
 
-1. Webiste Name: [Dev To](https://dev.to/)
+# 1. Webiste Name: [Dev To](https://dev.to/)
 
 ### Topics
 
