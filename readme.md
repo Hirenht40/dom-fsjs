@@ -179,7 +179,7 @@ for(let checkout of checkout) {
 
 ![Output](./Images/Pic11.png)
 
-### code
+### Code
 
 ```
 const searchElement = document.querySelector(".searchinput___19uW0")
@@ -211,7 +211,7 @@ searchElement.addEventListener('mouseover', function (){
 
 ![Output](./Images/Pic13.png)
 
-### code
+### Code
 
 ```
 const search = "CSS Positions";
@@ -246,7 +246,7 @@ formElement.submit();
 
 ![Output](./Images/Pic15.png)
 
-### code
+### Code
 ```
 const languages = document.getElementById("SIvCob");
 
@@ -265,7 +265,7 @@ languagesList.forEach((i, j)=>{
 ### Result
 ![Sample One](./Images/Ans8.PNG)
 
-# 9. Webiste Name: [Code Wars](https://www.codewars.com/)
+# 9. Webiste Name: [Code Wars](https://www.Codewars.com/)
 
 ### Topics
 
@@ -283,7 +283,7 @@ languagesList.forEach((i, j)=>{
 
 ![Output](./Images/Pic17.png)
 
-### code
+### Code
 ```
 const headingElement = document.querySelector("h1.display-heading-1");
 
@@ -293,7 +293,7 @@ headingElement.style.color = "red";
 ### Result
 ![Sample One](./Images/Ans9.PNG)
 
-# 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
+# 10. Webiste Name: [FreeCodecamp](https://www.freeCodecamp.org/)
 
 ### Topics
 
@@ -311,7 +311,7 @@ headingElement.style.color = "red";
 
 ![Output](./Images/Pic19.png)
 
-### code
+### Code
 ```
 const button = document.querySelector(".signup-btn.btn-cta-big");
 
@@ -342,7 +342,7 @@ button.addEventListener("mouseover", function(){
 
 ![Output](./Images/Pic21.png)
 
-### code
+### Code
 
 ```
 const iNeuronLogoPath = "https://ineuron.ai/Images/ineuron-logo.png";
@@ -373,7 +373,7 @@ logo.style.backgroundImage = `url(${iNeuronLogoPath})`;
 
 ![Output](./Images/Pic23.png)
 
-### code
+### Code
 
 ```
 const btn = document.querySelector(".js-repos-container a");
@@ -401,7 +401,7 @@ Target the top description and change “Matching developers with great companie
 
 ![Output](./Images/Pic25.png)
 
-### code
+### Code
 
 ```
 document.querySelector(".fl-heading-text").innerHTML = "JSBOOTCAMP"
@@ -429,7 +429,7 @@ document.querySelector(".fl-heading-text").innerHTML = "JSBOOTCAMP"
 
 ![Output](./Images/Pic27.png)
 
-### code
+### Code
 
 ```
 document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "80px";
@@ -456,7 +456,7 @@ document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "80px";
 
 ![Output](./Images/Pic29.png)
 
-### code
+### Code
 
 ```
 const laptop = document.querySelector("#d560824win9b");
@@ -488,7 +488,7 @@ title.style.textAlign = "right";
 
 ![Output](./Images/Pic31.png)
 
-### code
+### Code
 
 ```
 document.querySelector(".section-title_title__VEDfK").innerHTML = "Start with Scratch";
@@ -514,7 +514,7 @@ document.querySelector(".section-title_title__VEDfK").innerHTML = "Start with Sc
 
 ![Output](./Images/Pic32.png)
 
-### code
+### Code
 
 ```
 document.querySelector(".btn.buy.buy-button").innerHTML = new Date().toString();
@@ -540,7 +540,7 @@ document.querySelector(".btn.buy.buy-button").innerHTML = new Date().toString();
 
 ![Output](./Images/Pic35.png)
 
-### code
+### Code
 
 ```
 document.querySelector(".p-f03-footer-container").style.background = "orange";
@@ -567,7 +567,7 @@ document.querySelector(".p-f03-footer-container").style.background = "orange";
 
 ![Output](./Images/Pic37.png)
 
-### code
+### Code
 
 ```
 document.querySelector(".logo").getAttribute("src");
@@ -593,7 +593,7 @@ document.querySelector(".logo").getAttribute("src");
 
 ![Output](./Images/Pic39.png)
 
-### code
+### Code
 
 ```
 document.querySelector(".wide h3.desc").style.color = "orange";
