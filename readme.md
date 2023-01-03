@@ -8,7 +8,7 @@
 
 ### Sample Image
 
-![Sample One](/images/Pic1.png)
+![Sample One](./images/Pic1.png)
 
 ### Tasks
 
